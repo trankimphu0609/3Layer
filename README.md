@@ -1,19 +1,5 @@
 # Project 1 - Quản lý khóa học
 
-![](<https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png>)
-
-![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master) ![](https://img.shields.io/github/tag/pandao/editor.md.svg)
-
-## Thành viên nhóm
-
-| STT |    MSSV    | Họ và tên             |
-| :-: | :--------: | --------------------- |
-|  1  | 3119410467 | Nguyễn Đức Minh Trung |
-|  2  | 3119410420 | Hồ Tấn Thuận          |
-|  3  | 3119410294 | Võ Hoàng Quỳnh Như    |
-|  4  | 3119410308 | Trần Kim Phú          |
-|  5  | 3119410439 | Minh Hiếu Calan Tog   |
-
 ## Yêu Cầu:
 
 - Xây dựng theo mô hình 3 layer <br/>
