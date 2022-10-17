@@ -2,7 +2,7 @@
 
 ## Request:
 
-- Built in 3 layers model <br/>
+- Built in 3-Layer Model <br/>
 
 ## Database
 
